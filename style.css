@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 626px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: auto;
+}
+
+.container img {
+  width: 350px;
+  margin: auto;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 40px;
+  color: #3F3D56;
+}
+
+span {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 700;
+  font-weight: 700;
+  color: #EE24FF;
+}
