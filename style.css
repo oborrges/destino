@@ -5,7 +5,7 @@
 }
 
 .container {
-  width: 626px;
+  width: 540px;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -14,7 +14,7 @@
 
 .container img {
   width: 350px;
-  margin: auto;
+  margin: 64px auto 32px;
 }
 
 h1 {
@@ -23,6 +23,7 @@ h1 {
   font-size: 32px;
   line-height: 40px;
   color: #3F3D56;
+  margin-bottom: 16px;
 }
 
 span {
@@ -30,4 +31,36 @@ span {
   font-weight: 700;
   font-weight: 700;
   color: #EE24FF;
+}
+
+p {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #828282;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+p span {
+  color: #3F3D56;
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.line {
+  width: 391px;
+  border: 1px solid #ECEFF2;
+  margin: 64px auto 16px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #3F3D56;
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 22px;
 }
