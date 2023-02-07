@@ -14,7 +14,7 @@
 
 .container img {
   width: 350px;
-  margin: 64px auto 32px;
+  margin: 0px auto 32px;
 }
 
 h1 {
@@ -55,12 +55,25 @@ p span {
   border: 1px solid #ECEFF2;
   margin: 64px auto 16px;
 }
-
-footer a {
+ a {
   text-decoration: none;
   color: #3F3D56;
   font-family: 'Open Sans';
   font-weight: 700;
   font-size: 15px;
   line-height: 22px;
+}
+
+a:hover {
+  color: #EE24FF;
+}
+
+footer a + a {
+  margin-left: 44px;
+}
+
+.wave img {
+  width: 100%;
+  position: sticky;
+  bottom: 0;
 }
