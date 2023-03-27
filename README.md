@@ -36,7 +36,7 @@ Abaixo Pré visualização, da tela que eu criei:
 <br>
 
 <p align="center">
-  <img alt="Layout que Recriei a partir do Figma" src=".github/mobile.jpg" width="100%">
+  <img alt="Layout que Recriei a partir do Figma" src=".github/mobile.jpg" width="40%">
 </p>
 
 <p align="center">
