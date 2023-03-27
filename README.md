@@ -34,6 +34,8 @@ OBS: desafio a parte, adicionar o ícone na parte superior, aonde fica o nome da
 <br>
 Abaixo Pré visualização, da tela que eu criei:
 <br>
+<br>
+
 
 <p align="center">
   <img alt="Layout que Recriei a partir do Figma" src=".github/mobile.jpg" width="40%">
@@ -56,6 +58,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Pagina simples de uma empresa de viagens.
+
+Você pode visualizar o deploy do projeto através [DESSE LINK](https://oborrges.github.io/destino/)
 
 ## 🔖 Layout
 
