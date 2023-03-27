@@ -36,9 +36,14 @@ Abaixo Pré visualização, da tela que eu criei:
 <br>
 
 <p align="center">
+  <img alt="Layout que Recriei a partir do Figma" src=".github/mobile.jpg" width="100%">
+</p>
+
+<p align="center">
   <img alt="Layout que Recriei a partir do Figma" src=".github/preview.jpg" width="100%">
 </p>
 <br>
+
 
 ## 🚀 Tecnologias
 
